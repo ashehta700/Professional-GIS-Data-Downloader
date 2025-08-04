@@ -2,7 +2,7 @@
 
 A professional, open-source geospatial data extraction application built with **Streamlit**, **Folium**, **GeoPandas**, **OSMnx**, and **Microsoft Building Footprints**.
 
-![App Screenshot](https://your-screenshot-url-here.png) <!-- Optional: Replace with a real image or GIF -->
+![App Screenshot](https://github.com/ashehta700/Professional-GIS-Data-Downloader/blob/main/1.jpg) <!-- Optional: Replace with a real image or GIF -->
 
 ## 📦 Overview
 
